@@ -21,11 +21,11 @@
   385  git remote add origin https://github.com/VihaanShinde10/Github4Devops.git
   386  git remote -v
   387  git push origin mater
-  388  git remote set-url origin https://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@github.com/VihaanShinde10/Github4Devops.git~
+  388  git remote set-url origin https://<token>@github.com/VihaanShinde10/Github4Devops.git~
   389  git push origin master
-  390  git remote set-url origin https://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@github.com/VihaanShinde10/Github4Devops.git~
+  390  git remote set-url origin https://<token>@github.com/VihaanShinde10/Github4Devops.git~
   391  git push origin master
-  392  git remote set-url origin https://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@github.com/VihaanShinde10/Github4Devops.git
+  392  git remote set-url origin https://<token>@github.com/VihaanShinde10/Github4Devops.git
   393  git push origin master
   394  git clone https://github.com/LondheShubham153/fynd-my-movie.git
   395  git status
