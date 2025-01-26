@@ -1,0 +1,20 @@
+  359  git status
+  360  ls
+  361  ls -a
+  362  git status
+  363  git add testing.py
+  364  git status
+  365  git rm --cached testing.py
+  366  git status
+  367  git add testing.py
+  368  git status
+  369  git commit -m "added new file"
+  370  git config --global user.email "vihanshinde18@gmail.com"
+  371  git config --global user.name "Vihaan Shinde"       
+  372  git commit -m "added new file"
+  373  git status
+  374  rm testing.py
+  375  git status
+  376  git restore testing.py
+  377  ls
+  378  git status
