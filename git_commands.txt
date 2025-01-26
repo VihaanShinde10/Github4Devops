@@ -18,7 +18,7 @@
   376  git restore testing.py
   377  ls
   378  git status
-   385  git remote add origin https://github.com/VihaanShinde10/Github4Devops.git
+  385  git remote add origin https://github.com/VihaanShinde10/Github4Devops.git
   386  git remote -v
   387  git push origin mater
   388  git remote set-url origin https://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@github.com/VihaanShinde10/Github4Devops.git~
